@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/kret1ks/hmwrk-8/issues"
   },
-  "homepage": "https://github.com/kret1ks/hmwrk-8"
+  "homepage": "https://github.com/kret1ks/hmwrk-8",
+  "dependencies": {
+    "gh-pages": "^6.3.0",
+    "parce": "^1.2.8"
+  }
 }
