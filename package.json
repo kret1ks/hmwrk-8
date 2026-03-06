@@ -1,0 +1,23 @@
+{
+  "name": "hmwrk-8",
+  "version": "1.0.0",
+  "description": "",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "dev": "npx parcel src/index.html",
+    "build": "parcel build src/index.html --public-url /hmwrk-8/",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kret1ks/hmwrk-8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kret1ks/hmwrk-8/issues"
+  },
+  "homepage": "https://github.com/kret1ks/hmwrk-8"
+}
